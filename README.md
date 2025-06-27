@@ -49,5 +49,5 @@ Every few seconds, the backend saves the current content to MongoDB.
 
 *OUTPUT* :
 
-
+![Image](https://github.com/user-attachments/assets/794dcede-8d8f-4a81-8d19-dc52983ca6b9)
 
